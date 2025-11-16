@@ -40,4 +40,4 @@ Here is an unstable ghost, might be disappear.
 
 <hr/>
 
-![Guimc's GitHub stats](https://my-github-readme-stats-74wj6f579-guimc233s-projects.vercel.app/api?username=guimc233&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Guimc's GitHub stats](https://my-github-readme-stats-74wj6f579-guimc233s-projects.vercel.app/api?username=guimc233&theme=tokyonight&show=prs_merged,prs_merged_percentage&include_all_commits=true)
