@@ -20,7 +20,7 @@ Here is an unstable ghost, might be disappear.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-*wait... why Markdown is there???*
+*wait... Markdown???*
 
 ## Currently using
 
